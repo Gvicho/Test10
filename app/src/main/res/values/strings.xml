@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Test10</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="add_image">Add Image</string>
+    <string name="take_picture">Take Picture</string>
+    <string name="open_gallery">Open Gallery</string>
+</resources>
